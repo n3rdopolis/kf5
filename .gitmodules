@@ -1,168 +1,224 @@
 [submodule "tier1/karchive"]
 	path = tier1/karchive
 	url = git://anongit.kde.org/karchive.git
+	master = master
 [submodule "tier1/kcodecs"]
 	path = tier1/kcodecs
 	url = git://anongit.kde.org/kcodecs.git
+	master = master
 [submodule "tier1/kconfig"]
 	path = tier1/kconfig
 	url = git://anongit.kde.org/kconfig.git
+	master = master
 [submodule "tier1/kcoreaddons"]
 	path = tier1/kcoreaddons
 	url = git://anongit.kde.org/kcoreaddons.git
+	master = master
 [submodule "tier1/kdbusaddons"]
 	path = tier1/kdbusaddons
 	url = git://anongit.kde.org/kdbusaddons.git
+	master = master
 [submodule "tier1/kf5umbrella"]
 	path = tier1/kf5umbrella
 	url = git://anongit.kde.org/kf5umbrella.git
+	master = master
 [submodule "tier1/kglobalaccel"]
 	path = tier1/kglobalaccel
 	url = git://anongit.kde.org/kglobalaccel.git
+	master = master
 [submodule "tier1/kguiaddons"]
 	path = tier1/kguiaddons
 	url = git://anongit.kde.org/kguiaddons.git
+	master = master
 [submodule "tier1/kidletime"]
 	path = tier1/kidletime
 	url = git://anongit.kde.org/kidletime.git
+	master = master
 [submodule "tier1/kimageformats"]
 	path = tier1/kimageformats
 	url = git://anongit.kde.org/kimageformats.git
+	master = master
 [submodule "tier1/kjs"]
 	path = tier1/kjs
 	url = git://anongit.kde.org/kjs.git
+	master = master
 [submodule "tier1/kplotting"]
 	path = tier1/kplotting
 	url = git://anongit.kde.org/kplotting.git
+	master = master
 [submodule "tier1/kwidgetsaddons"]
 	path = tier1/kwidgetsaddons
 	url = git://anongit.kde.org/kwidgetsaddons.git
+	master = master
 [submodule "tier1/kwindowsystem"]
 	path = tier1/kwindowsystem
 	url = git://anongit.kde.org/kwindowsystem.git
+	master = master
 [submodule "tier1/solid"]
 	path = tier1/solid
 	url = git://anongit.kde.org/solid.git
+	master = master
 [submodule "tier1/sonnet"]
 	path = tier1/sonnet
 	url = git://anongit.kde.org/sonnet.git
+	master = master
 [submodule "tier1/threadweaver"]
 	path = tier1/threadweaver
 	url = git://anongit.kde.org/threadweaver.git
+	master = master
 [submodule "tier2/kauth"]
 	path = tier2/kauth
 	url = git://anongit.kde.org/kauth.git
+	master = master
 [submodule "tier2/kcompletion"]
 	path = tier2/kcompletion
 	url = git://anongit.kde.org/kcompletion.git
+	master = master
 [submodule "tier2/kcrash"]
 	path = tier2/kcrash
 	url = git://anongit.kde.org/kcrash.git
+	master = master
 [submodule "tier2/kdoctools"]
 	path = tier2/kdoctools
 	url = git://anongit.kde.org/kdoctools.git
+	master = master
 [submodule "tier2/ki18n"]
 	path = tier2/ki18n
 	url = git://anongit.kde.org/ki18n.git
+	master = master
 [submodule "tier2/kjobwidgets"]
 	path = tier2/kjobwidgets
 	url = git://anongit.kde.org/kjobwidgets.git
+	master = master
 [submodule "tier2/knotifications"]
 	path = tier2/knotifications
 	url = git://anongit.kde.org/knotifications.git
+	master = master
 [submodule "tier2/kwallet"]
 	path = tier2/kwallet
 	url = git://anongit.kde.org/kwallet.git
+	master = master
 [submodule "tier2/kdnssd"]
 	path = tier2/kdnssd
 	url = git://anongit.kde.org/kdnssd-framework.git
+	master = master
 [submodule "tier1/itemviews"]
 	path = tier1/itemviews
 	url = git://anongit.kde.org/kitemviews.git
+	master = master
 [submodule "tier1/itemmodels"]
 	path = tier1/itemmodels
 	url = git://anongit.kde.org/kitemmodels.git
+	master = master
 [submodule "tier3/kbookmarks"]
 	path = tier3/kbookmarks
 	url = git://anongit.kde.org/kbookmarks.git
+	master = master
 [submodule "tier3/kcmutils"]
 	path = tier3/kcmutils
 	url = git://anongit.kde.org/kcmutils.git
+	master = master
 [submodule "tier3/kconfigwidgets"]
 	path = tier3/kconfigwidgets
 	url = git://anongit.kde.org/kconfigwidgets.git
+	master = master
 [submodule "tier3/kdeclarative"]
 	path = tier3/kdeclarative
 	url = git://anongit.kde.org/kdeclarative.git
+	master = master
 [submodule "tier3/kded"]
 	path = tier3/kded
 	url = git://anongit.kde.org/kded.git
+	master = master
 [submodule "tier3/kdesu"]
 	path = tier3/kdesu
 	url = git://anongit.kde.org/kdesu.git
+	master = master
 [submodule "tier3/kdewebkit"]
 	path = tier3/kdewebkit
 	url = git://anongit.kde.org/kdewebkit.git
+	master = master
 [submodule "tier3/kemoticons"]
 	path = tier3/kemoticons
 	url = git://anongit.kde.org/kemoticons.git
+	master = master
 [submodule "tier3/kiconthemes"]
 	path = tier3/kiconthemes
 	url = git://anongit.kde.org/kiconthemes.git
+	master = master
 [submodule "tier3/kinit"]
 	path = tier3/kinit
 	url = git://anongit.kde.org/kinit.git
+	master = master
 [submodule "tier3/kio"]
 	path = tier3/kio
 	url = git://anongit.kde.org/kio.git
+	master = master
 [submodule "tier3/kjsembed"]
 	path = tier3/kjsembed
 	url = git://anongit.kde.org/kjsembed.git
+	master = master
 [submodule "tier3/kmediaplayer"]
 	path = tier3/kmediaplayer
 	url = git://anongit.kde.org/kmediaplayer.git
+	master = master
 [submodule "tier3/knewstuff"]
 	path = tier3/knewstuff
 	url = git://anongit.kde.org/knewstuff.git
+	master = master
 [submodule "tier3/knotifyconfig"]
 	path = tier3/knotifyconfig
 	url = git://anongit.kde.org/knotifyconfig.git
+	master = master
 [submodule "tier3/kparts"]
 	path = tier3/kparts
 	url = git://anongit.kde.org/kparts.git
+	master = master
 [submodule "tier3/kprintutils"]
 	path = tier3/kprintutils
 	url = git://anongit.kde.org/kprintutils.git
+	master = master
 [submodule "tier3/kpty"]
 	path = tier3/kpty
 	url = git://anongit.kde.org/kpty.git
+	master = master
 [submodule "tier3/kross"]
 	path = tier3/kross
 	url = git://anongit.kde.org/kross.git
+	master = master
 [submodule "tier3/kservice"]
 	path = tier3/kservice
 	url = git://anongit.kde.org/kservice.git
+	master = master
 [submodule "tier3/ktextwidgets"]
 	path = tier3/ktextwidgets
 	url = git://anongit.kde.org/ktextwidgets.git
+	master = master
 [submodule "tier3/kunitconversion"]
 	path = tier3/kunitconversion
 	url = git://anongit.kde.org/kunitconversion.git
+	master = master
 [submodule "tier3/xmlgui"]
 	path = tier3/xmlgui
 	url = git://anongit.kde.org/kxmlgui.git
+	master = master
 [submodule "tier4/apidox"]
 	path = tier4/apidox
 	url = git://anongit.kde.org/apidox.git
+	master = master
 [submodule "tier4/frameworkintegration"]
 	path = tier4/frameworkintegration
 	url = git://anongit.kde.org/frameworkintegration.git
+	master = master
 [submodule "tier4/kde4support"]
 	path = tier4/kde4support
 	url = git://anongit.kde.org/kde4support.git
+	master = master
 [submodule "tier4/kfileaudiopreview"]
 	path = tier4/kfileaudiopreview
 	url = git://anongit.kde.org/kfileaudiopreview.git
+	master = master
 [submodule "tier4/khtml"]
 	path = tier4/khtml
 	url = git://anongit.kde.org/khtml.git
+	master = master
