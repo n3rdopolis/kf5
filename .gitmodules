@@ -206,14 +206,6 @@
 	path = tier4/apidox
 	url = git://anongit.kde.org/apidox.git
 	branch = master
-[submodule "tier4/kde"]
-	path = tier4/kde
-	url = git://anongit.kde.org/kde4support.git
-	branch = master
-[submodule "tie"]
-	path = tie
-	url = git://anongit.kde.org/kfileaudiopreview.git
-	branch = master
 [submodule "tier4/khtml"]
 	path = tier4/khtml
 	url = git://anongit.kde.org/khtml.git
