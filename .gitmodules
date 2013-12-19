@@ -1,3 +1,51 @@
 [submodule "tier1/karchive"]
 	path = tier1/karchive
 	url = git://anongit.kde.org/karchive.git
+[submodule "tier1/kcodecs"]
+	path = tier1/kcodecs
+	url = git://anongit.kde.org/kcodecs.git
+[submodule "tier1/kconfig"]
+	path = tier1/kconfig
+	url = git://anongit.kde.org/kconfig.git
+[submodule "tier1/kcoreaddons"]
+	path = tier1/kcoreaddons
+	url = git://anongit.kde.org/kcoreaddons.git
+[submodule "tier1/kdbusaddons"]
+	path = tier1/kdbusaddons
+	url = git://anongit.kde.org/kdbusaddons.git
+[submodule "tier1/kf5umbrella"]
+	path = tier1/kf5umbrella
+	url = git://anongit.kde.org/kf5umbrella.git
+[submodule "tier1/kglobalaccel"]
+	path = tier1/kglobalaccel
+	url = git://anongit.kde.org/kglobalaccel.git
+[submodule "tier1/kguiaddons"]
+	path = tier1/kguiaddons
+	url = git://anongit.kde.org/kguiaddons.git
+[submodule "tier1/kidletime"]
+	path = tier1/kidletime
+	url = git://anongit.kde.org/kidletime.git
+[submodule "tier1/kimageformats"]
+	path = tier1/kimageformats
+	url = git://anongit.kde.org/kimageformats.git
+[submodule "tier1/kjs"]
+	path = tier1/kjs
+	url = git://anongit.kde.org/kjs.git
+[submodule "tier1/kplotting"]
+	path = tier1/kplotting
+	url = git://anongit.kde.org/kplotting.git
+[submodule "tier1/kwidgetsaddons"]
+	path = tier1/kwidgetsaddons
+	url = git://anongit.kde.org/kwidgetsaddons.git
+[submodule "tier1/kwindowsystem"]
+	path = tier1/kwindowsystem
+	url = git://anongit.kde.org/kwindowsystem.git
+[submodule "tier1/solid"]
+	path = tier1/solid
+	url = git://anongit.kde.org/solid.git
+[submodule "tier1/sonnet"]
+	path = tier1/sonnet
+	url = git://anongit.kde.org/sonnet.git
+[submodule "tier1/threadweaver"]
+	path = tier1/threadweaver
+	url = git://anongit.kde.org/threadweaver.git
