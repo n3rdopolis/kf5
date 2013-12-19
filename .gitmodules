@@ -1,0 +1,3 @@
+[submodule "tier1/karchive"]
+	path = tier1/karchive
+	url = git://anongit.kde.org/karchive.git
