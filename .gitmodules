@@ -96,7 +96,7 @@
 	branch = master
 [submodule "tier2/kwallet"]
 	path = tier2/kwallet
-	url = git://anongit.kde.org/kwallet.git
+	url = git://anongit.kde.org/kwallet-framework.git
 	branch = master
 [submodule "tier2/kdnssd"]
 	path = tier2/kdnssd
@@ -222,3 +222,6 @@
 	path = tier4/kfileaudiopreview
 	url = git://anongit.kde.org/kfileaudiopreview.git
 	branch = master
+[submodule "tier3/kdesignerplugin"]
+	path = tier3/kdesignerplugin
+	url = git://anongit.kde.org/kdesignerplugin.git
