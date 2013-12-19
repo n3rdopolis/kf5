@@ -8,5 +8,11 @@ git clone https://github.com/n3rdopolis/kf5.git
 cd kf5
 git submodule sync --recursive
 git submodule init
-git submodule update --recursive --force
+git submodule update --recursive --force --remote
 git pull
+
+and then run 
+git pull
+git submodule update --recursive --force --remote
+
+to update to the latest KDE modules if you ever need to. This works on Git 1.8.2 and later, where submodule branches are supported
