@@ -15,18 +15,18 @@ cmake_minimum_required(VERSION ${reqd_cmake})
 
 project(kdelibs)
 
-option(SUPERBUILD "Enable superbuild targets." OFF)
-if (SUPERBUILD)
-  add_subdirectory(superbuild)
-endif()
+#option(SUPERBUILD "Enable superbuild targets." OFF)
+#if (SUPERBUILD)
+#  add_subdirectory(superbuild)
+#endif()
 
 # Make CPack available to easy generate binary packages
 include(CPack)
 
-option(BUILD_TESTING "Build the testing tree." ON)
-if(BUILD_TESTING)
-    enable_testing()
-endif()
+#option(BUILD_TESTING "Build the testing tree." ON)
+#if(BUILD_TESTING)
+#    enable_testing()
+#endif()
 
 add_subdirectory( tier1 )
 
@@ -41,7 +41,7 @@ add_subdirectory( tier2 )
 add_subdirectory( tier3 )
 add_subdirectory( tier4 )
 
-add_subdirectory( staging )
+#add_subdirectory( staging )
 
 feature_summary(WHAT ALL
                 INCLUDE_QUIET_PACKAGES
