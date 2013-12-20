@@ -16,3 +16,9 @@ git pull
 git submodule update --recursive --force --remote
 
 to update to the latest KDE modules if you ever need to. This works on Git 1.8.2 and later, where submodule branches are supported
+
+
+If you have an older version of git than 1.8.2, to update all the submodules you will need to run 
+git submodule foreach git checkout master
+
+if you need to rebuild
