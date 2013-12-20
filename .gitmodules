@@ -204,7 +204,7 @@
 	branch = master
 [submodule "tier4/apidox"]
 	path = tier4/apidox
-	url = git://anongit.kde.org/apidox.git
+	url = git://anongit.kde.org/kapidox.git
 	branch = master
 [submodule "tier4/khtml"]
 	path = tier4/khtml
