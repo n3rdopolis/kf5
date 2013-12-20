@@ -225,3 +225,4 @@
 [submodule "tier3/kdesignerplugin"]
 	path = tier3/kdesignerplugin
 	url = git://anongit.kde.org/kdesignerplugin.git
+	branch = master
