@@ -102,12 +102,12 @@
 	path = tier2/kdnssd
 	url = git://anongit.kde.org/kdnssd-framework.git
 	branch = master
-[submodule "tier1/kitemviews"]
-	path = tier1/kitemviews
+[submodule "tier1/itemviews"]
+	path = tier1/itemviews
 	url = git://anongit.kde.org/kitemviews.git
 	branch = master
-[submodule "tier1/kitemmodels"]
-	path = tier1/kitemmodels
+[submodule "tier1/itemmodels"]
+	path = tier1/itemmodels
 	url = git://anongit.kde.org/kitemmodels.git
 	branch = master
 [submodule "tier3/kbookmarks"]
@@ -198,8 +198,8 @@
 	path = tier3/kunitconversion
 	url = git://anongit.kde.org/kunitconversion.git
 	branch = master
-[submodule "tier3/kxmlgui"]
-	path = tier3/kxmlgui
+[submodule "tier3/xmlgui"]
+	path = tier3/xmlgui
 	url = git://anongit.kde.org/kxmlgui.git
 	branch = master
 [submodule "tier4/apidox"]
